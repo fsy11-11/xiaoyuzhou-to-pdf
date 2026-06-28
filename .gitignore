@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output
+output/
+test_out/
+*.aux
+*.log
+*.out
+*.toc
+
+# Temp
+/tmp/
+*.mp3
+*.m4a
+*.wav
+
+# OS
+.DS_Store
+Thumbs.db
